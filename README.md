@@ -49,4 +49,3 @@ Deploy = https://rocketpay-six-gules.vercel.app/
 ##
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
